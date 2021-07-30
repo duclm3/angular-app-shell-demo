@@ -6,4 +6,4 @@ To run this angular project
 
 1. Then, install NPM Dependancies - `$ yarn install`
 2. And then build the angular app - `$ ng run angular-app-shell-demo:app-shell`
-3. Use any server to run the build application
+3. Use any server to run the build  application
